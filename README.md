@@ -57,7 +57,7 @@ To achieve production level, the result should be post-processed. You can use an
  * Result on filling gap.
   <img src="figs/one_pixel_gap.jpg"/>
   
-  [Weibo](http://photo.weibo.com/1252089801/talbum/detail/photo_id/4217107768569026) **Chinese**
+  [Weibo](http://photo.weibo.com/1252089801/talbum/detail/photo_id/4217107768569026) **[Chinese]**
   
    
 From **Project HAT** by Hepesu With :heart:
