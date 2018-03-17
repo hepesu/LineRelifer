@@ -41,6 +41,7 @@ To achieve production level, the result should be post-processed. You can use an
 * Input should have white background and black lines.
 * Prefered stroke width is 1 to 3 px (AA or NoAA).
 * Memory cost for HD image is heavy, make sure computer has enough memory (>8 GB).
+* It can work as post-processing tool for LineDistiller.
 
 ## Further Work
 * Better network structure and more styles.
@@ -62,6 +63,7 @@ To achieve production level, the result should be post-processed. You can use an
 
 [Weibo](http://photo.weibo.com/1252089801/talbum/detail/photo_id/4217107768569026) **[Chinese]**
 
+* Click to enlarge and view details. 
 
 
 From **Project HAT** by Hepesu With :heart:
