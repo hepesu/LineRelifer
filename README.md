@@ -49,6 +49,7 @@ To achieve production level, the result should be post-processed. You can use an
 * Online demo.
 
 ## Examples
+* Click to enlarge and view details. 
 * Result on hand-drawn line-drawing without width change on strokes. Pictures from web.
  <img src="figs/l1.jpg"/>
  <img src="figs/l1_2x.jpg"/>
@@ -63,7 +64,7 @@ To achieve production level, the result should be post-processed. You can use an
 
 [Weibo](http://photo.weibo.com/1252089801/talbum/detail/photo_id/4217107768569026) **[Chinese]**
 
-* Click to enlarge and view details. 
 
-<hr>
+
+
 From **Project HAT** by Hepesu With :heart:
