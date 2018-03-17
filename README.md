@@ -29,15 +29,35 @@ The data should be organized into directories. The directory tree is:
 ## Models
 **model_180317.h5**: Model trained using MSE and adversarial loss with private dataset for 10000 epochs.
 
+## Post-processing
+To achieve production level, the result should be post-processed. You can use any post-production software. Here shows the method in Photoshop with OLM smoother.
+* Convert color mode to RGB
+* Using curve to achieve desire style
+ <img src="figs/curve.jpg"/>
+ * Using OLM smoother to do AA.
+
 ## Notes
+* Input should have white background and black lines.
 * Prefered stroke width is 1 to 3 px (AA or NoAA).
 * Memory cost for HD image is heavy, make sure computer has enough memory (>8 GB).
 
 ## Further Work
 * Better network structure and more styles.
 * A deep-learning based thinning and vectorization tool for line-drawings.
+* Online demo.
 
 ## Examples
-
-
+* Result on hand-drawn line-drawing without width change on strokes. Pictures from web.
+ <img src="figs/l1.jpg"/>
+ <img src="figs/l1_2x.jpg"/>
+* Result on 3d NPR line-drawing.
+ <img src="figs/3d_1.jpg"/>
+ <img src="figs/3d_12x.jpg"/>
+ <img src="figs/3d_2.jpg"/>
+ * Result on filling gap.
+  <img src="figs/one_pixel_gap.jpg"/>
+  
+  [Weibo](http://photo.weibo.com/1252089801/talbum/detail/photo_id/4217107768569026) **Chinese**
+  
+   
 From **Project HAT** by Hepesu With :heart:
