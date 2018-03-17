@@ -32,10 +32,10 @@ The data should be organized into directories. The directory tree is:
 ## Post-processing
 To achieve production level, the result should be post-processed. You can use any post-production software. Here shows the method in Photoshop with OLM smoother.
 * Convert color mode to RGB
-* Using curve to achieve desire style
+* Use curve to achieve desire style
  <img src="figs/curve.jpg"/>
  
- * Using OLM smoother to do AA.
+ * Use OLM smoother to do AA.
 
 ## Notes
 * Input should have white background and black lines.
@@ -65,5 +65,5 @@ To achieve production level, the result should be post-processed. You can use an
 
 * Click to enlarge and view details. 
 
-
+<hr>
 From **Project HAT** by Hepesu With :heart:
