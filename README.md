@@ -19,8 +19,8 @@ This work propose a deep-learning based approach to line-drawing (NPR and hand-d
 
 The data should be organized into directories. The directory tree is:
 
-  * `data/predict`, contains the images for preidction
-  * `data/result`, contains the output results from preidction
+  * `data/predict`, contains the images for prediction
+  * `data/result`, contains the output results from prediction
 
 2. Download the model from release and put it in the same folder with code, then rename to `model.h5`.
 
@@ -30,7 +30,7 @@ The data should be organized into directories. The directory tree is:
 **model_180317.h5**: Model trained using MSE and adversarial loss with private dataset for 10000 epochs.
 
 ## Post-processing
-To achieve production level, the result should be post-processed. You can use any post-production software. Here shows the method in Photoshop with OLM smoother.
+To achieve production level, the result should be post-processed. You can use any image editing software. Here shows the method in Photoshop with OLM smoother.
 * Convert color mode to RGB
 * Use curve to achieve desire style
  <img src="figs/curve.jpg"/>
