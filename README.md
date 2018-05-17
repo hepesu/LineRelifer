@@ -19,8 +19,8 @@ This work propose a deep-learning based approach to line-drawing (NPR and hand-d
 
 The data should be organized into directories. The directory tree is:
 
-  * `data/predict`, contains the images for prediction
-  * `data/result`, contains the output results from prediction
+* `data/predict`, contains the images for prediction
+* `data/result`, contains the output results from prediction
 
 2. Download the model from release and put it in the same folder with code, then rename to `model.h5`.
 
@@ -46,7 +46,8 @@ To achieve production level, the result should be post-processed. You can use an
 ## Further Work
 * Better network structure and more styles.
 * A deep-learning based thinning and vectorization tool for line-drawings.
-* Online demo.
+* Use CAN structure for refiner.
+* Filling gap function is separated into individual project LineCloser, code and model will be upload soon.
 
 ## Examples
 * Click to enlarge and view details. 
