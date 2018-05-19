@@ -45,7 +45,7 @@ To achieve production level, the result should be post-processed. You can use an
 
 ## Further Work
 * Better network structure and more styles.
-* A deep-learning based thinning and vectorization tool for line-drawings.
+* A deep-learning based thinning and vectorization tool for line-drawings. Because there are already tools for tasks, this will be cancelled. For line-thining or line-normalization [http://hi.cs.waseda.ac.jp/~esimo/en/research/inking/], for vectorization [http://www-sop.inria.fr/reves/Basilic/2016/FLB16/] and [http://www.byungsoo.me/project/vectornet/].
 * Use CAN structure for refiner.
 * Filling gap function is separated into individual project LineCloser, code and model will be upload soon.
 
